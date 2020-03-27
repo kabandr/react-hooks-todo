@@ -1,3 +1,11 @@
+# To run the App:
+
+Inside the cloned repository :
+
+- cd todo-app
+- yarn
+- yarn start
+
 # Intro to React + Hooks - Build a TODO App
 
 - [x] What is react?
